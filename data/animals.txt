@@ -1,0 +1,65 @@
+Mamíferos,León
+Mamíferos,Elefante
+Mamíferos,Tigre
+Mamíferos,Ballena
+Mamíferos,Murciélago
+Mamíferos,Canguro
+Mamíferos,Delfín
+Mamíferos,Zorro
+Mamíferos,Oso panda
+Mamíferos,Jirafa    
+Aves,Águila
+Aves,Pingüino
+Aves,Colibrí
+Aves,Búho
+Aves,Flamenco
+Aves,Loro
+Aves,Pelícano
+Aves,Cisne
+Aves,Pavo real
+Aves,Cóndor    
+Reptiles,Cocodrilo
+Reptiles,Iguana
+Reptiles,Serpiente
+Reptiles,Tortuga
+Reptiles,Camaleón
+Reptiles,Lagarto
+Reptiles,Dragón de Komodo
+Reptiles,Gecko
+Reptiles,Anaconda
+Reptiles,Víbora    
+Anfibios,Rana
+Anfibios,Sapo
+Anfibios,Salamandra
+Anfibios,Tritón
+Anfibios,Cecilia    
+Peces,Tiburón
+Peces,Salmón
+Peces,Atún
+Peces,Pez payaso
+Peces,Caballito de mar
+Peces,Mero
+Peces,Manta raya
+Peces,Pez espada
+Peces,Pez ángel
+Peces,Pez globo    
+Insectos,Mariposa
+Insectos,Abeja
+Insectos,Hormiga
+Insectos,Escarabajo
+Insectos,Mosca
+Insectos,Grillo
+Insectos,Libélula
+Insectos,Saltamontes
+Insectos,Cucaracha
+Insectos,Avispa    
+Invertebrados,Araña
+Invertebrados,Pulpo
+Invertebrados,Medusa
+Invertebrados,Estrella de mar
+Invertebrados,Erizo de mar
+Invertebrados,Caracol
+Invertebrados,Calamar
+Invertebrados,Cangrejo
+Invertebrados,Lombriz
+Invertebrados,Escorpión
